@@ -13239,7 +13239,7 @@ var render = function() {
     _vm._v(" "),
     _c("p", { domProps: { innerHTML: _vm._s(_vm.rawdescription) } }),
     _vm._v(" "),
-    _c("h2", [_vm._v("The Best of Both Worlds.")]),
+    _c("h2", [_vm._v("The Best of Both Worlds with Jekyll and Vue")]),
     _vm._v(" "),
     _c("p", [_vm._v(_vm._s(_vm.siteData.combination))]),
     _vm._v(" "),

@@ -1,8 +1,8 @@
 {
   "_comment": "Website using Jekyll and Vue",
-  "name": "vue-jekyll",
+  "name": "labs-vue-jekyll",
   "repository": "https://github.com/pegalabs/labs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A bare-bones template for building static sites that leverage a modern javascript framework for dynamic functionality. Built with [NPM](https://www.npmjs.com), [Vue](https://vuejs.org), and [Jekyll](https://jekyllrb.com).",
   "main": "main.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "Vue"
   ],
   "author": "Bala Raman",
-  "license": "LGPL",
+  "license": "MIT",
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
@@ -26,6 +26,7 @@
     "extract-text-webpack-plugin": "^2.1.0",
     "json-loader": "^0.5.7",
     "marked": "^0.3.19",
+    "css-loader": "0.28.11",
     "vue": "^2.5.16",
     "vue-loader": "^14.2.2",
     "vue-template-compiler": "^2.5.16",

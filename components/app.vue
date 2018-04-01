@@ -2,7 +2,7 @@
   <div class="copy">
     <h2>{{ siteData.title }}</h2>
     <p v-html="rawdescription"></p>
-    <h2>The Best of Both Worlds.</h2>
+    <h2>The Best of Both Worlds with Jekyll and Vue</h2>
     <p>{{ siteData.combination }}</p>
     <div class="bennies">
       <div class="benefits">

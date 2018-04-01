@@ -1,10 +1,10 @@
 
 # Info
 title: Pega Labs Note
-twitter: "http://twitter.com/pegalabs"
-github: "http://github.com/pegalabs"
-baseurl: "labs"
-url: "http://pegalabs.github.io/"
+twitter: "https://twitter.com/pegalabs"
+github: "https://github.com/pegalabs"
+baseurl: "https://pegalabs.github.io/labs"
+url: "https://pegalabs.github.io/"
 
 # Collections
 collections:

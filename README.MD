@@ -1,6 +1,6 @@
 ## Static, meet dynamic.
 
-**Demo: https://pegalabs.github.io/labs**
+**Demo: https://pbmlabs.github.io/labs**
 
 [This Repo](https://github.com/pegalabs/labs) is a bare-bones template for building static sites that leverage a client-side JS framework for dynamic functionality. It uses [NPM](https://www.npmjs.com/), [Webpack](https://webpack.js.org), [Vue](https://vuejs.org), and [Jekyll](https://jekyllrb.com). It uses **NPM (and Bundler)** to manage the project's dependencies, and improve the development workflow. It uses **Webpack** to roll up and transpile all the individual modules and components into a single bundeled JS file. It uses **Jekyll** to bring it all together, build the site, and serve an initial static file to the browser. It uses **Vue** to render pages on the client side (if JS is supported), and provide any additional dynamic functionality that may be needed.
 
